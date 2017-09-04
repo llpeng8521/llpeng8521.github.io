@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-03T14:59:15.411Z</updated>
+  <updated>2017-09-04T16:58:18.841Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://yoursite.com/2017/09/03/my-first-blog/"/>
     <id>http://yoursite.com/2017/09/03/my-first-blog/</id>
     <published>2017-09-03T10:03:39.000Z</published>
-    <updated>2017-09-03T14:59:15.411Z</updated>
+    <updated>2017-09-04T16:58:18.841Z</updated>
     
     <content type="html"><![CDATA[<p>花了近一天的时间终于部署好了自己的个人博客，多少有一些收获！</p>
-<h1 id="采坑之路"><a href="#采坑之路" class="headerlink" title="采坑之路"></a>采坑之路</h1><h2 id="1-GitHub-Page"><a href="#1-GitHub-Page" class="headerlink" title="1. GitHub Page"></a>1. GitHub Page</h2><ul>
+<h1 id="踩坑之路"><a href="#踩坑之路" class="headerlink" title="踩坑之路"></a>踩坑之路</h1><h2 id="1-GitHub-Page"><a href="#1-GitHub-Page" class="headerlink" title="1. GitHub Page"></a>1. GitHub Page</h2><ul>
 <li><a href="https://pages.github.com/" target="_blank" rel="external">GitHub Page主页</a></li>
 <li><a href="https://help.github.com/categories/github-pages-basics/" target="_blank" rel="external">GitHub Page帮助文档</a><ul>
 <li>GitHub网站所提供的关于使用GitHub搭建个人博客的说明</li>
@@ -65,7 +65,7 @@
     <summary type="html">
     
       &lt;p&gt;花了近一天的时间终于部署好了自己的个人博客，多少有一些收获！&lt;/p&gt;
-&lt;h1 id=&quot;采坑之路&quot;&gt;&lt;a href=&quot;#采坑之路&quot; class=&quot;headerlink&quot; title=&quot;采坑之路&quot;&gt;&lt;/a&gt;采坑之路&lt;/h1&gt;&lt;h2 id=&quot;1-GitHub-Page&quot;&gt;&lt;a h
+&lt;h1 id=&quot;踩坑之路&quot;&gt;&lt;a href=&quot;#踩坑之路&quot; class=&quot;headerlink&quot; title=&quot;踩坑之路&quot;&gt;&lt;/a&gt;踩坑之路&lt;/h1&gt;&lt;h2 id=&quot;1-GitHub-Page&quot;&gt;&lt;a h
     
     </summary>
     
